@@ -28,4 +28,9 @@ The Supply Chain team decided to use a standard approach to measure the service 
 * Custom tooltip
 * Custom slicer panel
 
-![]()
+## Home view
+
+![sc1](https://user-images.githubusercontent.com/86113717/200170633-c2e097c4-5612-4de7-84df-ffc53a945e7f.JPG)
+
+## customer view
+
