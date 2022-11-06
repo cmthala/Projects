@@ -28,7 +28,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 * Custom tooltip
 * Custom slicer panel
 
-##Aproach
+## Aproach
 
 ![MY APPROACH](https://user-images.githubusercontent.com/86113717/200183705-72998326-b91a-4aaf-bd4a-d4f3899e1129.png)
 
