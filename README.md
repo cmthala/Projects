@@ -1,6 +1,6 @@
 # Supply chain Analysis in FMCG domain
 
-To see my work - https://www.novypro.com/project/supply-chain-2
+## To see my work - https://www.novypro.com/project/supply-chain-2
 
 
 ## Problem
