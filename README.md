@@ -16,3 +16,16 @@ The Supply Chain team decided to use a standard approach to measure the service 
 * Create the metrics according to the metrics list.
 * Create a dashboard according to the requirements provided by stakeholders in the business review meeting.
 * Create relevant insights that are not provided in the metric list/stakeholder meeting.
+
+## what I learned in this project
+* Supply chain domain knowledge
+* Different types of charts and their purposes
+* Creating relationship between fact table and dimension table
+* KPI
+* Bookmarks
+* Creating new measure using DAX
+* Sparkline in table
+* Custom tooltip
+* Custom slicer panel
+
+![]()
