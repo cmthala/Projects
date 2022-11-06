@@ -34,3 +34,12 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 ## customer view
 
+![sc2](https://user-images.githubusercontent.com/86113717/200170754-53c78a15-7923-4d9b-8e19-d50d4f9c08ce.JPG)
+
+## product view
+
+![sc3](https://user-images.githubusercontent.com/86113717/200170797-82dbabef-9ebe-4ec1-8028-044d6ff04ecb.JPG)
+
+## Insights view
+
+![sc5](https://user-images.githubusercontent.com/86113717/200170838-97943ddb-2856-4206-b18d-1e057f4683de.JPG)
