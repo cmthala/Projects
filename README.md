@@ -11,6 +11,13 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’ and OnTime in full (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
 
+## Business Terms
+* On-time delivery (OT)
+* In-full delivery (IF)
+* OnTime in full (OTIF)
+* Volume Fill Rate(VOFR)
+* Line Fill Rate(LIFR)
+
 ## My Tasks
 
 * Create the metrics according to the metrics list.
@@ -25,11 +32,11 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 ![sc1](https://user-images.githubusercontent.com/86113717/200170633-c2e097c4-5612-4de7-84df-ffc53a945e7f.JPG)
 
-## customer view
+## Customer view
 
 ![sc2](https://user-images.githubusercontent.com/86113717/200170754-53c78a15-7923-4d9b-8e19-d50d4f9c08ce.JPG)
 
-## product view
+## Product view
 
 ![sc3](https://user-images.githubusercontent.com/86113717/200170797-82dbabef-9ebe-4ec1-8028-044d6ff04ecb.JPG)
 
@@ -37,4 +44,4 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 ![sc5](https://user-images.githubusercontent.com/86113717/200170838-97943ddb-2856-4206-b18d-1e057f4683de.JPG)
 
-## To interact my work - https://www.novypro.com/project/supply-chain-2
+Thank you in advance for your time!
