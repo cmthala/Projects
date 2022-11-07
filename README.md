@@ -36,3 +36,5 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ## Insights view
 
 ![sc5](https://user-images.githubusercontent.com/86113717/200170838-97943ddb-2856-4206-b18d-1e057f4683de.JPG)
+
+## To interact my work - https://www.novypro.com/project/supply-chain-2
