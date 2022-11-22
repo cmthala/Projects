@@ -1,6 +1,7 @@
 # Supply chain Analysis in FMCG domain
 
 ## To interact my work - https://www.novypro.com/project/supply-chain-2
+## Ppt  - https://1drv.ms/p/s!AmskdQK8Rqgdh1XvSr9UWWKh4oUw?e=TItVAx
 
 
 ## Problem
