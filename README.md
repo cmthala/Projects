@@ -1,6 +1,6 @@
 # Supply chain Analysis in FMCG domain
 
-## To interact my work - https://www.novypro.com/project/supply-chain-2
+## Dashboard - https://www.novypro.com/project/supply-chain-2
 ## Ppt  - [Supply chain Analysis Report.pptx](https://github.com/cmthala/Supply-Chain-Analysis-Project/files/10063745/Supply.chain.Analysis.Report.pptx)
 
 
