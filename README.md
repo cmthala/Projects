@@ -1,12 +1,9 @@
 # Supply chain Analysis in FMCG domain
 
-## Dashboard - https://www.novypro.com/project/supply-chain-2
-## Ppt  - [Supply chain Analysis Report.pptx](https://github.com/cmthala/Supply-Chain-Analysis-Project/files/10063745/Supply.chain.Analysis.Report.pptx)
+### Dashboard - https://www.novypro.com/project/supply-chain-2
+### Ppt  - [Supply chain Analysis Report.pptx](https://github.com/cmthala/Supply-Chain-Analysis-Project/files/10063745/Supply.chain.Analysis.Report.pptx)
 
-
-## Aproach
-
-![MY APPROACH](https://user-images.githubusercontent.com/86113717/200183705-72998326-b91a-4aaf-bd4a-d4f3899e1129.png)
+![MY APPROACH](https://user-images.githubusercontent.com/86113717/203824089-4405102d-fa84-4273-9fe5-8b09044d1e00.png)
 
 ## Home view
 
